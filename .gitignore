@@ -1,0 +1,6 @@
+# Yii2 default ignore
+/vendor/
+/web/assets/*
+/runtime/*
+/config/db.php
+.env
